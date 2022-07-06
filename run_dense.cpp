@@ -199,7 +199,6 @@ int main( int argc, char** argv )
   char *imgfile_bo = argv[2];
   char *outfile = argv[3];
   #endif
-  cout << "fn: " << imgfile_ao;
 
   cv::Mat img_ao_mat, img_bo_mat, img_tmp;
   int rpyrtype, nochannels, incoltype;
