@@ -191,9 +191,9 @@ int main( int argc, char** argv )
 
   // *** Parse and load input images
   #if DEBUG
-  char *imgfile_ao = "a.png";
-  char *imgfile_bo = "b.png";
-  char *outfile = "out.flo";
+  char *imgfile_ao = (char *)"a.png";
+  char *imgfile_bo = (char *)"b.png";
+  char *outfile = (char *)"out.flo";
   #else
   char *imgfile_ao = argv[1];
   char *imgfile_bo = argv[2];
