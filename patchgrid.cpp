@@ -397,5 +397,3 @@ void PatGridClass::AggregateFlowDense(float *flowout) const
 }
 
 }
-
-

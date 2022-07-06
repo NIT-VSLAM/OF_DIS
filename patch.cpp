@@ -403,5 +403,3 @@ void PatClass::getPatchStaticBil(const float* img, const Eigen::Vector2f* mid_in
  
 
 }
-
-

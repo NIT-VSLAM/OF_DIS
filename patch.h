@@ -127,5 +127,3 @@ private:
 }
 
 #endif /* PAT_HEADER */
-
-
